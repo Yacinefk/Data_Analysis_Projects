@@ -9,9 +9,9 @@
 - Filter rows in pandas DataFrame by column value
 - Apply multiple creteria to a pandas DataFrame
 - Pandas tricks:
-              - what about reading from csv file only two columns and ignore others?
-              - what is the fastest methode to read from csv file?
-              - how to define the type of each column before actually reading the csv
+     - what about reading from csv file only two columns and ignore others?
+     - what is the fastest methode to read from csv file?
+     - how to define the type of each column before actually reading the csv
 - Iterate through serie or dataframe
 - Drop every non_numeric column from a DataFrame
 - Using axis paramater in pandas
