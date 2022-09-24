@@ -1,8 +1,8 @@
 # Data_Analysis_Projects
 ========================
-Download dataset into python
-Select pandas series from DatFrame
-Some pandas commande end with parentheses, and other commands don't
+- Download dataset into python
+- Select pandas series from DatFrame
+- Some pandas commande end with parentheses, and other commands don't
 Rename columns in a pandas DataFrame
 Remove columns from Pandas DtaFrame
 Sort a pandas DataFrame or Series
